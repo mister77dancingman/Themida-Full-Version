@@ -237,4 +237,4 @@ This repository serves as the official landing page for Themida. The software is
 **Get the most recent version of Themida today!**
 
 ---
-**Last updated:** 2026-09-13 21:49:32 UTC
+**Last updated:** 2026-09-13 23:41:03 UTC
